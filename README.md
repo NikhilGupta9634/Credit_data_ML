@@ -1,1 +1,1 @@
-# Credit_data_ML
+# -Credit-Scoring-and-Segmentation-using-Python-
